@@ -38,16 +38,9 @@
 
 ### 🚀 Current Goals
 
-- 🧪 Build and simulate a sequential traffic light system in Proteus  
 - 🧱 Refine backend API endpoints with robust error handling  
 - 🧭 Complete a self-driven web dev bootcamp with portfolio milestones  
 - 🧘 Maintain a disciplined daily routine balancing study, training, and family  
-
----
-
-### 📌 Featured Projects *(Coming Soon)*
-
-> Want to see my Minecraft modpack, backend APIs, or hardware simulations in action? Stay tuned for pinned repos with demos and walkthroughs.
 
 ---
 
