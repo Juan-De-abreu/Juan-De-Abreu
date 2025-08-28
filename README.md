@@ -10,11 +10,11 @@
 
 ### 🧠 About Me
 
-- 🎓 Computer Engineering student, born in 2005  
-- 💻 Full Stack Developer (Node.js, MySQL, React, and more)  
-- 🔍 Passionate about exploring new technologies and programming languages  
-- 🛠️ Builder of optimized systems, from backend APIs to hardware setups  
-- 🌍 Based in Venezuela, navigating freelance platforms and global workflows  
+- 🎓 Computer Engineering student, born in 2005
+- 💻 Full Stack Developer focused on building scalable web applications and clean backend logic
+- 🔍 Passionate about exploring new technologies, frameworks, and automation tools
+- 🧠 Skilled in designing efficient APIs, managing databases, and integrating AI into development workflows
+- 🌍 Based in Venezuela, navigating freelance platforms and global remote collaboration
 - 🤖 Collaborates hand-in-hand with AI to build smarter, automated systems  
 - 🧩 Methodical, ambitious, and always iterating for improvement
   
