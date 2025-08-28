@@ -1,13 +1,8 @@
 <!-- GitHub Profile Picture -->
-<p align="center">
-  <img src="https://github.com/Juan-De-abreu.png" width="150" style="border-radius: 50%;" alt="Juan De Abreu GitHub Profile Picture"/>
-</p>
+![Juan De Abreu GitHub Profile Picture](https://github.com/Juan-De-abreu.png)
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hello%2C+I'm+Juan+De+Abreu;💻+Full+stack+Developer+%26+Tech+Optimizer;🚀+Building+Reliable+Systems+with+Code+and+Logic" alt="Typing SVG" />
-  </a>
-</p>
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hello%2C+I'm+Juan+De+Abreu;💻+Full+stack+Developer+%26+Tech+Optimizer;🚀+Building+Reliable+Systems+with+Code+and+Logic)](https://git.io/typing-svg)
 
 ---
 
