@@ -28,13 +28,12 @@
 ### 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Juan-De-abreu&theme=radical" alt="GitHub Streak" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=Juan-De-abreu&theme=radical" alt="GitHub Streak" width="100%" height="50%"/>
 </div>
 ---
 
 ### 🚀 Current Goals
 
-- 🧪 Build and simulate a sequential traffic light system in Proteus  
 - 🧱 Refine backend API endpoints with robust error handling  
 - 🧭 Complete a self-driven web dev bootcamp with portfolio milestones  
 - 🧘 Maintain a disciplined daily routine balancing study, training, and family  
