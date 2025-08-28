@@ -23,8 +23,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juan-De-abreu&show_icons=true&theme=radical" width="49%", height="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-De-abreu&layout=compact&theme=radical" width="49%", height="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Juan-De-abreu&show_icons=true&theme=radical" width="49%" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-De-abreu&layout=compact&theme=radical" width="49%" height="200px"/>
 </div>
 
 ---
@@ -32,7 +32,7 @@
 ### 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Juan-De-abreu&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Juan-De-abreu&theme=radical" width="98%" height="200px"/>
 </div>
 
 ---
