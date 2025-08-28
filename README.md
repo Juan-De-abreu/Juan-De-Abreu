@@ -1,5 +1,5 @@
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=👋+Hello%2C+I'm+Juan+De+Abreu;%20💻+Full+stack+Developer+%26+Tech+Optimizer;🤖+Working+hand-in-hand+with+AI+to+build+smarter+systems;🚀+Building+Reliable+Systems+with+Code+and+Logic)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Hello%2C+I'm+Juan+De+Abreu;%20💻+Full+stack+Developer+%26+Tech+Optimizer;%20🚀+Building+Reliable+Systems+with+Code+and+Logic)](https://git.io/typing-svg)
 
 ---
 
