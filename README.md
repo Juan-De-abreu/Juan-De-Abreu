@@ -1,5 +1,10 @@
 <!-- Typing animation -->
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=👋+Hello%2C+I'm+Juan+De+Abreu;💻+Full+stack+Developer+%26+Tech+Optimizer;🚀+Building+Reliable+Systems+with+Code+and+Logic)](https://git.io/typing-svg)
+
+</div>
+
 ---
 
 ### 🧠 About Me
@@ -46,8 +51,8 @@
 ### 📬 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ing-juan-de-abreu/)  
-- 📧 [Email](mailto:juan_abreu_2005@hotmail.com)
--   [gmail](mailto:juan.abreu.2005@gmail.com)
+- 📧 [Email](mailto:juan_abreu_2005@hotmail.com)  
+- 📧 [Gmail](mailto:juan.abreu.2005@gmail.com)
 
 ---
 
