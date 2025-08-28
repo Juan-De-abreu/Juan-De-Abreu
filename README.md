@@ -1,6 +1,6 @@
 <!-- GitHub Profile Picture -->
 <p align="center">
-  <img src="https://github.com/Juan-De-abreu.png" width="225" style=" border-radius: 50%;border:2px solid black; " alt="Juan De Abreu GitHub Profile Picture"/>
+  <img src="https://github.com/Juan-De-abreu.png" width="350" style=" border-radius: 50%;border:2px solid black; " alt="Juan De Abreu GitHub Profile Picture"/>
 </p>
 
 <!-- Typing animation -->
