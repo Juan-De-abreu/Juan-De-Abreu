@@ -45,9 +45,9 @@
 
 ### 📬 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 🐦 [Twitter](https://twitter.com/yourhandle)  
-- 📧 [Email](mailto:juan.de.abreu@example.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ing-juan-de-abreu/)  
+- 📧 [Email](mailto:juan_abreu_2005@hotmail.com)
+-   [gmail](juan.abreu.2005@gmail.com)
 
 ---
 
