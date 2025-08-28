@@ -1,5 +1,6 @@
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=900&color=456DE9&width=435&height=100&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=👋+Hello%2C+I'm+Juan+De+Abreu;💡+Tech+Explorer+%26+Modpack+Curator;🚀+Always+Learning+Something+New)](https://git.io/typing-svg)
+
 ---
 
 ### 🧠 About Me
@@ -21,19 +22,20 @@
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Juan-De-abreu&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-De-abreu&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Juan-De-abreu&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-De-abreu&layout=compact&theme=radical)
 
 ---
 
 ### 🔥 Contribution Streak
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Juan-De-abreu&theme=radical" alt="GitHub Streak" width="100%" height="200px"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Juan-De-abreu&theme=radical)](https://git.io/streak-stats)
+
 ---
 
 ### 🚀 Current Goals
 
+- 🧪 Build and simulate a sequential traffic light system in Proteus  
 - 🧱 Refine backend API endpoints with robust error handling  
 - 🧭 Complete a self-driven web dev bootcamp with portfolio milestones  
 - 🧘 Maintain a disciplined daily routine balancing study, training, and family  
