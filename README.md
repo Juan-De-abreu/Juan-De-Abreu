@@ -27,8 +27,9 @@
 
 ### 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Juan-De-abreu&theme=radical)](https://git.io/streak-stats)
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Juan-De-abreu&theme=radical" alt="GitHub Streak" width="100%" />
+</div>
 ---
 
 ### 🚀 Current Goals
