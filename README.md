@@ -52,7 +52,6 @@
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ing-juan-de-abreu/)  
 - 📧 [Email](mailto:juan_abreu_2005@hotmail.com)  
 - 📧 [Gmail](mailto:juan.abreu.2005@gmail.com)
-- <a href="mailto:destinatario@gmail.com?subject=Hola%20Juan">Enviar Gmail</a>
 
 
 ---
