@@ -1,10 +1,5 @@
-<h1 align="center">
-  👋 Hello, my name is <span style="color:#00BFFF;">Juan De Abreu</span>
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=👨‍💻+Full+Stack+Developer;💡+Tech+Explorer+%26+Language+Lover;🚀+Always+Learning+Something+New" alt="Typing SVG" />
-</p>
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=👋+Hello%2C+I'm+Juan+De+Abreu;💡+Tech+Explorer+%26+Modpack+Curator;🚀+Always+Learning+Something+New)](https://git.io/typing-svg)
 
 ---
 
@@ -19,51 +14,46 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Juan-De-abreu&theme=onedark&no-frame=true&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juandeabreu&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juandeabreu&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juandeabreu&theme=radical" alt="Profile Summary" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Juan-De-abreu&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-De-abreu&layout=compact&theme=radical)
 
 ---
 
-### 🚀 Contributions
+### 🔥 Contribution Streak
 
-- 📦 Total Pushes: **[Insert your total push count here]**
-- 🌟 GitHub Rank: **[Insert your GitHub rank or percentile if available]**
-- 🧩 Public Repositories: **[Insert repo count]**
-- 🛠️ Most used languages: **JavaScript, SQL, HTML, CSS, C++**
-
-### 🏆 Trophies de GitHub
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=juandeabreu&theme=onedark&no-frame=true&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-> 💡 *Tip: You can use [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) to show off achievements like stars, forks, and followers.*
+[![GitHub Streak](https://streak-stats.demolab.com?user=Juan-De-abreu&theme=radical)](https://git.io/streak-stats)
 
 ---
 
-### ✨ What Else to Add?
+### 🚀 Current Goals
 
-To make your profile even more attractive:
-- ✅ Add a pinned portfolio project with live demo and source code
-- 🎥 Include short GIFs or screen recordings of your projects in action
-- 📚 Link to your favorite free certification courses or bootcamp roadmap
-- 🧭 Share your goals or current learning journey in a dedicated section
-- 💬 Add a “Let’s Connect” section with your LinkedIn, Twitter, or email
+- 🧪 Build and simulate a sequential traffic light system in Proteus  
+- 🧱 Refine backend API endpoints with robust error handling  
+- 🧭 Complete a self-driven web dev bootcamp with portfolio milestones  
+- 🧘 Maintain a disciplined daily routine balancing study, training, and family  
+
+---
+
+### 📌 Featured Projects *(Coming Soon)*
+
+> Want to see my Minecraft modpack, backend APIs, or hardware simulations in action? Stay tuned for pinned repos with demos and walkthroughs.
 
 ---
 
 ### 📬 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📧 Email: juan.de.abreu@example.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- 🐦 [Twitter](https://twitter.com/yourhandle)  
+- 📧 [Email](mailto:juan.de.abreu@example.com)
 
 ---
 
-_Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate or just geek out over tech._
+*Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate or geek out over tech.*
