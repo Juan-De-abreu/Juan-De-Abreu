@@ -1,10 +1,10 @@
 <!-- GitHub Profile Picture -->
 <p align="center">
-  <img src="https://github.com/Juan-De-abreu.png" width="250" style=" border-radius: 50% " alt="Juan De Abreu GitHub Profile Picture"/>
+  <img src="https://github.com/Juan-De-abreu.png" width="225" style=" border-radius: 50% " alt="Juan De Abreu GitHub Profile Picture"/>
 </p>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=00F7FF&center=true&vCenter=true&width=1350&lines=👋+Hello%2C+I'm+Juan+De+Abreu;💻+Full+stack+Developer+%26+Tech+Optimizer;🤖+Working+hand-in-hand+with+AI+to+build+smarter+systems;🚀+Building+Reliable+Systems+with+Code+and+Logic)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=1350&lines=👋+Hello%2C+I'm+Juan+De+Abreu;💻+Full+stack+Developer+%26+Tech+Optimizer;🤖+Working+hand-in-hand+with+AI+to+build+smarter+systems;🚀+Building+Reliable+Systems+with+Code+and+Logic)](https://git.io/typing-svg)
 
 ---
 
