@@ -18,12 +18,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Juan-De-abreu&theme=onedark&no-frame=true&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
