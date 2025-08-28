@@ -1,6 +1,5 @@
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=👋+Hello%2C+I'm+Juan+De+Abreu;🚀%2C+Always+wanting+to+learn+something+new)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=900&color=456DE9&width=435&height=100&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 ---
 
 ### 🧠 About Me
