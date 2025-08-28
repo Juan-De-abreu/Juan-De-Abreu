@@ -28,7 +28,7 @@
 ### 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Juan-De-abreu&theme=radical" alt="GitHub Streak" width="100%" height="50%"/>
+  <img src="https://streak-stats.demolab.com?user=Juan-De-abreu&theme=radical" alt="GitHub Streak" width="100%" height="100px"/>
 </div>
 ---
 
