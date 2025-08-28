@@ -47,7 +47,7 @@
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ing-juan-de-abreu/)  
 - 📧 [Email](mailto:juan_abreu_2005@hotmail.com)
--   [gmail](juan.abreu.2005@gmail.com)
+-   [gmail](mailto:juan.abreu.2005@gmail.com)
 
 ---
 
