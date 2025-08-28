@@ -16,11 +16,9 @@
 - 🛠️ Builder of optimized systems, from backend APIs to hardware setups  
 - 🌍 Based in Venezuela, navigating freelance platforms and global workflows  
 - 🤖 Collaborates hand-in-hand with AI to build smarter, automated systems  
-- 🎮 Creative modder and visual designer with a love for game customization  
-- 🧩 Methodical, ambitious, and always iterating for improvement  
+- 🧩 Methodical, ambitious, and always iterating for improvement
+  
 ---
-
-
 
 ### 📊 GitHub Stats
 
