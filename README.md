@@ -21,20 +21,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Juan-De-abreu&show_icons=true&theme=radical" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-De-abreu&layout=compact&theme=radical" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=Juan-De-abreu&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-De-abreu&layout=compact&theme=radical)
 
 ---
 
