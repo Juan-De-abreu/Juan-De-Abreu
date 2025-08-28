@@ -10,19 +10,17 @@
 
 ### 🧠 About Me
 
-- 🎓 Computer Engineering student (born in 2005)  
+- 🎓 Computer Engineering student, born in 2005  
 - 💻 Full Stack Developer (Node.js, MySQL, React, and more)  
 - 🔍 Passionate about exploring new technologies and programming languages  
 - 🛠️ Builder of optimized systems, from backend APIs to hardware setups  
 - 🌍 Based in Venezuela, navigating freelance platforms and global workflows  
-
+- 🤖 Collaborates hand-in-hand with AI to build smarter, automated systems  
+- 🎮 Creative modder and visual designer with a love for game customization  
+- 🧩 Methodical, ambitious, and always iterating for improvement  
 ---
 
-### 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Juan-De-abreu&theme=onedark&no-frame=true&row=1&margin-w=22)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ### 📊 GitHub Stats
 
