@@ -39,9 +39,12 @@
 
 ### 🚀 Current Goals
 
-- 🧱 Refine backend API endpoints with robust error handling  
-- 🧭 Complete a self-driven web dev bootcamp with portfolio milestones  
-- 🧘 Maintain a disciplined daily routine balancing study, training, and family  
+- 📚 Deepen my understanding of full stack development, from frontend frameworks to backend architecture
+- 🔐 Explore web security principles and best practices to build safer applications
+- 🗄️ Strengthen database design and optimization skills for scalable systems
+- 🧠 Stay consistent with self-driven learning and portfolio growth
+- 🌐 Expand my presence on freelance platforms through technical refinement and branding
+
 
 ---
 
