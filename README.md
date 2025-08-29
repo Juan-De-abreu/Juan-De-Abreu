@@ -31,7 +31,9 @@
 
 ### 🔥 Contribution Streak
 
-![Descripción](https://streak-stats.demolab.com?user=Juan-De-abreu&theme=radical)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Juan-De-abreu&theme=radical" width="147%" style="height:300px;"/>
+</div>
 
 ---
 
