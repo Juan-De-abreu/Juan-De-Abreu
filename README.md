@@ -1,6 +1,6 @@
 <!-- GitHub Profile Picture -->
 <p align="center">
-  <img src="https://github.com/Juan-De-abreu.png" width="225" style=" border-radius: 50% " alt="Juan De Abreu GitHub Profile Picture"/>
+  <img src="https://github.com/Juan-De-abreu.png" width="225" style=" border-radius:50%; " alt="Juan De Abreu GitHub Profile Picture"/>
 </p>
 
 <!-- Typing animation -->
@@ -55,6 +55,7 @@
 </div>
 
 ---
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,java,nodejs,react)](https://skillicons.dev)
 
 *Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate or geek out over tech.*
 
