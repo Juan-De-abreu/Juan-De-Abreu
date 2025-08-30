@@ -1,6 +1,6 @@
 <!-- GitHub Profile Picture -->
 <p align="center">
-  <img src="https://github.com/Juan-De-abreu.png" width="225" style=" border-radius:50%; " alt="Juan De Abreu GitHub Profile Picture"/>
+  <img src="https://github.com/Juan-De-abreu.png" width="225" style=" border-radius: 50% " alt="Juan De Abreu GitHub Profile Picture"/>
 </p>
 
 <!-- Typing animation -->
@@ -10,14 +10,13 @@
 
 ### 🧠 About Me
 
-- 🎓 Computer Engineering student, born in 2005
-- 💻 Full Stack Developer focused on building scalable web applications and clean backend logic
-- 🔍 Passionate about exploring new technologies, frameworks, and automation tools
-- 🧠 Skilled in designing efficient APIs, managing databases, and integrating AI into development workflows
-- 🌍 Based in Venezuela, navigating freelance platforms and global remote collaboration
+- 🎓 Computer Engineering student, born in 2005  
+- 💻 Full Stack Developer focused on building scalable web applications and clean backend logic  
+- 🔍 Passionate about exploring new technologies, frameworks, and automation tools  
+- 🧠 Skilled in designing efficient APIs, managing databases, and integrating AI into development workflows  
+- 🌍 Based in Venezuela, navigating freelance platforms and global remote collaboration  
 - 🤖 Collaborates hand-in-hand with AI to build smarter, automated systems  
-- 🧩 Methodical, ambitious, and always iterating for improvement
-  
+- 🧩 Methodical, ambitious, and always iterating for improvement  
 
 ---
 
@@ -31,12 +30,32 @@
 
 ### 🚀 Current Goals
 
-- 📚 Deepen my understanding of full stack development, from frontend frameworks to backend architecture
-- 🔐 Explore web security principles and best practices to build safer applications
-- 🗄️ Strengthen database design and optimization skills for scalable systems
-- 🧠 Stay consistent with self-driven learning and portfolio growth
-- 🌐 Expand my presence on freelance platforms through technical refinement and branding
+- 📚 Deepen my understanding of full stack development, from frontend frameworks to backend architecture  
+- 🔐 Explore web security principles and best practices to build safer applications  
+- 🗄️ Strengthen database design and optimization skills for scalable systems  
+- 🧠 Stay consistent with self-driven learning and portfolio growth  
+- 🌐 Expand my presence on freelance platforms through technical refinement and branding  
 
+---
+
+### 🧪 Tech Stack & Skills
+
+- ⚛️ React, React Native, Next.js  
+- 🧩 Express.js, Node.js  
+- 🔧 API creation, integration, and management  
+- 🐘 MySQL, database design and optimization  
+- 🐍 Python, ☕ Java, 🧠 JavaScript  
+- 🌐 HTML5, 🎨 CSS3, 🛠️ PHP  
+
+[![My Skills](https://skillicons.dev/icons?i=react,express,nextjs,nodejs,api,mysql,python,java,js,php,html,css)](https://skillicons.dev)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-De-abreu&layout=compact&theme=radical" width="99%" height="300px";/>
+</div>
 
 ---
 
@@ -48,14 +67,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-De-abreu&layout=compact&theme=radical" width="99%" height="300px";/>
-</div>
-
----
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,java,nodejs,react)](https://skillicons.dev)
-
 *Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate or geek out over tech.*
-
