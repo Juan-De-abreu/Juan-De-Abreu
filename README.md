@@ -47,8 +47,11 @@
 - 🐍 Python, ☕ Java, 🧠 JavaScript  
 - 🌐 HTML5, 🎨 CSS3, 🛠️ PHP  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,git,react,express,nextjs,nodejs,mysql,python,java)](https://skillicons.dev)
-
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,git,react,express,nextjs,nodejs,mysql,python,java" style="width: 100%; max-width: 800px;" alt="My Skills"/>
+  </a>
+</div>
 ---
 
 ### 📊 GitHub Stats
