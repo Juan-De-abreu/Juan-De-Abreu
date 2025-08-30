@@ -18,13 +18,6 @@
 - 🤖 Collaborates hand-in-hand with AI to build smarter, automated systems  
 - 🧩 Methodical, ambitious, and always iterating for improvement
   
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-De-abreu&layout=compact&theme=radical" width="99%" height="300px";/>
-</div>
 
 ---
 
@@ -53,7 +46,15 @@
 - 📧 [Email](mailto:juan_abreu_2005@hotmail.com)  
 - 📧 [Gmail](mailto:juan.abreu.2005@gmail.com)
 
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-De-abreu&layout=compact&theme=radical" width="99%" height="300px";/>
+</div>
 
 ---
 
 *Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate or geek out over tech.*
+
