@@ -49,7 +49,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,git,react,express,nextjs,nodejs,mysql,python,java" style="width: 100%; max-width: 800px;" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,git,react,mysql,express,nextjs,nodejs,python,java" style="width: 100%; max-width: 1000px;" alt="My Skills"/>
   </a>
 </div>
 
