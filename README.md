@@ -47,7 +47,7 @@
 - 🐍 Python, ☕ Java, 🧠 JavaScript  
 - 🌐 HTML5, 🎨 CSS3, 🛠️ PHP  
 
-[![My Skills](https://skillicons.dev/icons?i=react,express,nextjs,nodejs,api,mysql,python,java,js,php,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,git,react,express,nextjs,nodejs,mysql,python,java)](https://skillicons.dev)
 
 ---
 
