@@ -23,8 +23,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juan-De-abreu&show_icons=true&theme=radical" width="49%" height="300px";/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-De-abreu&layout=compact&theme=radical" width="49%" height="300px";/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-De-abreu&layout=compact&theme=radical" width="99%" height="300px";/>
 </div>
 
 ---
