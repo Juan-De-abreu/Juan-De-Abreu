@@ -28,16 +28,6 @@
 
 ---
 
-### 🚀 Current Goals
-
-- 📚 Deepen my understanding of full stack development, from frontend frameworks to backend architecture  
-- 🔐 Explore web security principles and best practices to build safer applications  
-- 🗄️ Strengthen database design and optimization skills for scalable systems  
-- 🧠 Stay consistent with self-driven learning and portfolio growth  
-- 🌐 Expand my presence on freelance platforms through technical refinement and branding  
-
----
-
 ### 🧪 Tech Stack & Skills
 
 - ⚛️ React, React Native, Next.js  
@@ -52,6 +42,18 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,php,git,react,mysql,express,nextjs,nodejs,python,java" style="width: 100%; max-width: 1000px;" alt="My Skills"/>
   </a>
 </div>
+
+---
+
+### 🚀 Current Goals
+
+- 📚 Deepen my understanding of full stack development, from frontend frameworks to backend architecture  
+- 🔐 Explore web security principles and best practices to build safer applications  
+- 🗄️ Strengthen database design and optimization skills for scalable systems  
+- 🧠 Stay consistent with self-driven learning and portfolio growth  
+- 🌐 Expand my presence on freelance platforms through technical refinement and branding  
+
+
 
 ---
 
