@@ -57,14 +57,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-De-abreu&layout=compact&theme=radical" width="99%" height="300px";/>
-</div>
-
----
-
 ### 📬 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ing-juan-de-abreu/)  
@@ -74,3 +66,11 @@
 ---
 
 *Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate or geek out over tech.*
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-De-abreu&layout=compact&theme=radical" width="99%" height="300px";/>
+</div>
+
+---
